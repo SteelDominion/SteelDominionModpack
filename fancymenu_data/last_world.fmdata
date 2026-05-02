@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/User/AppData/Roaming/ModrinthApp/profiles/Project MWW2 1.0.2/saves/New World
+}
+
