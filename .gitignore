@@ -1,0 +1,13 @@
+./logs
+./cache
+./crash-reports
+./downloads
+./saves
+./schematics
+./scripts
+./command_history.txt
+./servers.dat_old
+./usercache.json
+./usernamecache.json
+./welcomescreen_cache.json
+./mods/reactivemusic-neoforge-1.3.0+1.21.1.jar
