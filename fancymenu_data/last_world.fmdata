@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = false
-  world = C:/Users/User/Documents/GitHub/SteelDominionModpack/saves/New World
+  is_server = true
+  world = world.steeldominion.net:25565
 }
 
