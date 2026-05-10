@@ -34,7 +34,7 @@ chatLinks:true
 chatLinksPrompt:true
 discrete_mouse_scroll:false
 invertYMouse:false
-realmsNotifications:true
+realmsNotifications:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["tacz_resources","vanilla","fabric","mod_resources","moonlight:merged_pack"]
-incompatibleResourcePacks:[]
+resourcePacks:["tacz_resources","vanilla","fabric","mod_resources","moonlight:merged_pack","file/resourcepack.zip"]
+incompatibleResourcePacks:["file/resourcepack.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
