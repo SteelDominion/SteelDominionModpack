@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = steeldominion_credits
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1778470624444
+  last_edited_time = 1778539120746
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:abc617c2-0ea2-4638-b0f5-4f8f5a96812b-1778470608542] = [groups:][instances:]
+  [loading_requirement_container_meta:196adbdd-b3a6-4d01-a781-bbe1d60db654-1778539058599] = [groups:][instances:]
 }
 
 customization {
@@ -75,11 +75,11 @@ element {
   base_opacity = 1.0
   auto_sizing = false
   auto_sizing_base_screen_width = 1920
-  auto_sizing_base_screen_height = 1018
+  auto_sizing_base_screen_height = 1012
   sticky_anchor = false
   anchor_point = top-centered
-  x = -95
-  y = 49
+  x = -98
+  y = 36
   width = 195
   height = 17
   stretch_x = false
@@ -147,13 +147,14 @@ element {
   base_opacity = 1.0
   auto_sizing = false
   auto_sizing_base_screen_width = 1920
-  auto_sizing_base_screen_height = 1018
+  auto_sizing_base_screen_height = 1012
   sticky_anchor = false
-  anchor_point = mid-centered
-  x = -205
-  y = -180
+  anchor_point = top-centered
+  advanced_height = {"placeholder":"calc","values":{"expression":"600 / {"placeholder":"guiscale"}","decimal":"true"}}
+  x = -208
+  y = 54
   width = 414
-  height = 359
+  height = 50
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
@@ -210,7 +211,7 @@ element {
   base_opacity = 1.0
   auto_sizing = false
   auto_sizing_base_screen_width = 1920
-  auto_sizing_base_screen_height = 1080
+  auto_sizing_base_screen_height = 1010
   sticky_anchor = false
   anchor_point = bottom-centered
   x = -90
